@@ -7,3 +7,7 @@ name = "minimal_irc_client"
 version = "0.1.0"
 description = "A minimal command-line IRC client."
 readme = "README.md"
+requires-python = "<=3.9" 
+dependencies = [
+    "pydle>=1.0.1"
+]
